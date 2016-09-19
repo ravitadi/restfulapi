@@ -1,0 +1,20 @@
+{
+  "name": "smartcar",
+  "version": "1.0.0",
+  "description": "Resful Api for smartcar",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ravi tadi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0"
+  }
+}
